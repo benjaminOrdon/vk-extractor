@@ -1,0 +1,13 @@
+{
+  "name": "vk-extractor",
+  "version": "1.0.0",
+  "description": "A runnable implementation of the VK Extractor.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "node ./tests/run-tests.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
